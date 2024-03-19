@@ -1,0 +1,41 @@
+
+.testimonials{
+    height: 100vh;
+
+    display: flex;
+    width: 100vw;
+
+    margin-top: 19rem;
+
+    >.left{
+        img{
+            width: 60vw;
+        }
+    }
+    >.right{
+
+
+
+
+
+
+
+
+
+        >.cards{
+            >.card{
+
+                >.user{
+
+                    >.profile{
+
+                        img{
+                            width: 2rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
