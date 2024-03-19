@@ -1,4 +1,3 @@
-
 import "./values.scss"
 import img from "../assets/values.svg"
 

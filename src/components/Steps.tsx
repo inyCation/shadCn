@@ -1,4 +1,3 @@
-
 import img from "../assets/steps.png"
 
 import "./steps.scss"

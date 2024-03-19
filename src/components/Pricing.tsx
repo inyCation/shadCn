@@ -1,4 +1,3 @@
-
 import "./pricing.scss"
 
 const Pricing = () => {

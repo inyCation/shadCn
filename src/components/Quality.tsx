@@ -1,4 +1,3 @@
-
 import img from "../assets/quality.png"
 import "./quality.scss"
 

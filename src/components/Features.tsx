@@ -1,4 +1,3 @@
-
 import img from "../assets/secure.svg"
 import "./features.scss"
 

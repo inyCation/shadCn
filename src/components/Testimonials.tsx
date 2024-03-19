@@ -1,5 +1,3 @@
-
-
 import img from "../assets/testimonials.svg"
 import img2 from "../assets/profilePic.avif"
 import "./testimonials.scss"

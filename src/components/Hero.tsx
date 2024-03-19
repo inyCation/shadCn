@@ -1,4 +1,3 @@
-import React from 'react'
 import img from "../assets/trusted.png"
 import img2 from '../assets/hero.svg'
 
