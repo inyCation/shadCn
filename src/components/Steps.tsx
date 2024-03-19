@@ -1,4 +1,4 @@
-import React from 'react'
+
 import img from "../assets/steps.png"
 
 import "./steps.scss"

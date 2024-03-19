@@ -1,4 +1,4 @@
-import React from 'react'
+
 import img from "../assets/secure.svg"
 import "./features.scss"
 

@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 import img from "../assets/testimonials.svg"
 import img2 from "../assets/profilePic.avif"
